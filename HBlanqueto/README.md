@@ -47,6 +47,15 @@ plugins=(git)
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
+**LSD**
+Creditos: Peltoche
+
+![image](https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png)
+
+Para instalarlo, te dejaré su repositorio oficial ya que este esta muy bien explicado y tiene todo lo que necesitas para configurarlo como yo, solo es cuestion de instalarlo según tu distribución Linux y sería todo.
+
+Respositorio: https://github.com/Peltoche/lsd
+
 
 
 
