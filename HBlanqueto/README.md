@@ -21,6 +21,9 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 ## Oh_my_zsh Themes 
 **Te dejaré el link de descarga de cada una de los temas para Oh_my_zsh, en el caso de el tema ArchCraft lo saqué directamente de la distribución con el mismo nombre, NO OBSTANTE PODRÁN ENCONTRAR LOS TEMAS EN ESTOS REPOSITORIOS**
 
+Para instalarlos en tu sistema, lo unico que debes hacer es mandarlos a la siguiente ruta
+**/home/NombreDeTuUsuario/.oh_my_zsh/custom/themes**
+
 - Link a los temas: https://github.com/XUnix-Corp/Projects/tree/master/HBlanqueto/Themes
 
 ### Passion
