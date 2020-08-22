@@ -40,11 +40,11 @@ Como te lo estoy mostando aqui, debes hacerlo igual en el tuyo para que pueda fu
 
 - Antes
 ```bash
-plugins(git)
+plugins=(git)
 ```
 - Después
 ```bash
-plugins(git zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
 
