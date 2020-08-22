@@ -2,6 +2,7 @@
 <img src="https://github.com/XUnix-Corp/Projects/blob/master/HBlanqueto/Images/WAllpaper%20Zone1.png" align="center" align="center">
 <br>
 
+#PARA CUALQUIER DISTRIBUCIÓN GNU/LINUX
 
 #### Tip: Solo vas a necesitar copiar, pegar estos comandos y agregar unos textos a tu archivo .zshrc
 
@@ -11,6 +12,7 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 ## Materiales
 - Zsh (Shell)
 - Oh_my_zsh
+- git
 
 ## Zsh y Oh_my_Zsh
 Utilizo esta shell para 
@@ -29,6 +31,14 @@ Utilizo esta shell para
 ```bash
 ~ $ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
+**Descargar zsh-syntax-highlighting**
+```bash
+~ $ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+```
+
+**Una vez lo tengas instalado**
+
+Ya tengas ejecutados estos dos comandos, debes dirigirte a la ruta de
 
 
 
