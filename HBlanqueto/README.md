@@ -3,7 +3,6 @@
 <br>
 
 # PARA CUALQUIER DISTRIBUCIÓN GNU/LINUX
-
 #### Tip: Solo vas a necesitar copiar, pegar estos comandos y agregar unos textos a tu archivo .zshrc
 
 ## ¿Qué encontraré aquí?
