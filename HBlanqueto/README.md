@@ -15,10 +15,11 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 - Link a los temas:  https://github.com/XUnix-Corp/Projects/tree/master/HBlanqueto/Themes
 
 ### Passion
-
+- Link: https://github.com/Hblanqueto/ohmyzsh-theme-passion
 ![passion](https://raw.githubusercontent.com/ChesterYue/ohmyzsh-theme-passion/master/passion.gif)
 
 ### Arch Craft 
+- Link a la Distro: https://archcraft-os.github.io/
 ![gif](https://raw.githubusercontent.com/archcraft-os/archcraft-os.github.io/master/img/main.gif) <br />
 
 ## Plugins
