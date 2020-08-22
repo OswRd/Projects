@@ -12,7 +12,7 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 ## Oh_my_zsh Themes 
 **Te dejaré el link de descarga de cada una de los temas para Oh_my_zsh, en el caso de el tema ArchCraft lo saqué directamente de la distribución con el mismo nombre, NO OBSTANTE PODRÁN ENCONTRAR LOS TEMAS EN ESTOS REPOSITORIOS**
 
-- Link a los temas:  https://github.com/XUnix-Corp/Projects/tree/master/HBlanqueto/Themes
+- Link a los temas: https://github.com/XUnix-Corp/Projects/tree/master/HBlanqueto/Themes
 
 ### Passion
 - Link: https://github.com/Hblanqueto/ohmyzsh-theme-passion
