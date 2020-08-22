@@ -3,32 +3,59 @@
 A
 
 01: A Heat for All Seasons
+
 02: A Size Classmate
+
 03: Accelerando Datenshi-tachi no Sasayaki
+
 04: Ai Kyan Joukan
+
 05: Ai no Katachi
+
 06: Ail Maniax
+
 07: Aisai Nikki 
+
 08: Akebi no Hana Maho
+
 09: Akina to Onsen de H Shiyo
+
 10: Alignment You! You!
+
 11: Allargando The Animation 
+
 12: Amanee! 
+
 13: Ana no Oku no Ii Tokoro 
+
 14: Anata dake Konbanwa
+
 15: Anata no Shiranai Kangofu
+
 16: Anata wa Watashi no Mono -
+
 17: Ane Chijo Max Heart
+
 18: Ane Koi Suki Kirai Daisuki
+
 19: Ane Kyun!
+
 20: Ane Yome Quartet
+
 21: Aneimo
+
 22: Aneki no Kounai Kaikinbi
+
 23: Aniki no Yome-san nara, Ore ni Hamerarete Hiihii Itteru Tokoro Da yo
+
 24: Aneki no Kounai Kaikinbi 
+
 25: Aniyome wa Ijippari
+
 26: Anoko to Iikoto
+
 27: Arubaito Shiyou!!
+
 28: Ayatsuri Haramase Dream Note
 
 B
