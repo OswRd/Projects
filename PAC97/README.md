@@ -3,8 +3,8 @@ I use Some scripts for the distro ArchCraft, the files contain the mentions to t
 
 # Dotfiles & Configs  
 
-Check the [keybindings](https://github.com/PAC97/dotfiles#Keybindings) and the
-[software](https://github.com/PAC97/dotfiles#Software) for to use the dotfiles
+Check the [keybindings](https://github.com/PAC97/Projects/tree/master/PAC97#Keybindings) and the
+[software](https://github.com/PAC97/Projects/tree/master/PAC97#Software) for to use the dotfiles
 
 ## BSPWM
 ![BSPWM](.screenshots/bspwm.png)
