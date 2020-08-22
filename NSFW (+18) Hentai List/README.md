@@ -61,41 +61,73 @@
 # B
 
 29: Baka na Imouto
+
 30: Babuka Gokudou no Tsuma
+
 31: Baka Dakedo Chinchin Shaburu no Dake wa Jouzu na Chii-chan
+
 32: Bakunyuu BOMB
+
 33: Bakunyuu Maid Kari
+
 34: Betsuni Anta no Tame ni Ookiku Nattan Janain Dakarane!!
+
 35: Bikyaku Seidou Kaichou Ai
+
 36: Binkan Athlete
+
 37: Bloods Inraku no Ketsuzoku 2
+
 38: Boku dake no Hentai Kanojo Motto The Animation
+
 39: Boku no Yayoi-san
+
 40: Boku to Nurse no Kenshuu Nisshi
+
 41: Bokura no Sex
+
 42: Boy Meets Harem The Animation 
+
 43: Brandish
+
 44: Busou Shoujotai Blade Briders The Animation
+
 45: Bust to Bust
+
 46: Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi The Animation
 
 # C
 
 47: Cafe Junkie
+
 48: Cartagra
+
 49: Cherry & Gals
+
 50: Chicchana Onaka
+
 51: Chichi-iro Toiki 
+
 52: Chijoku no Seifuku
+
 53: Chijoku Shinsatsushitsu
+
 54: Chikan no Licence
+
 55: Chikan Shita Joshikousei to Sonogo 
+
 56: Chinetsu Karte The Devilish Cherry
+
 57: Chu Shite Agechau Oshikake Onee-san no Seikou Chiryou
+
 58: Colosseum no Senki Another Story 
+
 59: Cosplay Rakuen 
+
 60: Cosplay Roshutsu Kenkyuukai
+
 61: Creamy Pie
+
 62: Crimson Girls Chikan Shihai
 
 D
