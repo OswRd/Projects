@@ -8,6 +8,15 @@
 ## ¿Qué encontraré aquí?
 Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, tanto los temas, plugins y otros tips que te daré para que puedas recrear lo que utiizo.
 
+# Necesitas:
+- Zsh
+- Oh_my_zsh
+- Git
+
+### ¿No sabes instalarlos? Pasate por estos links para tenerlos en tu sistema
+- Zsh: https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+- Oh_my_zsh: https://github.com/ohmyzsh/ohmyzsh
+- Git: https://www.atlassian.com/es/git/tutorials/install-git
 
 ## Oh_my_zsh Themes 
 **Te dejaré el link de descarga de cada una de los temas para Oh_my_zsh, en el caso de el tema ArchCraft lo saqué directamente de la distribución con el mismo nombre, NO OBSTANTE PODRÁN ENCONTRAR LOS TEMAS EN ESTOS REPOSITORIOS**
