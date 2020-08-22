@@ -15,8 +15,6 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 
 - **zsh-autosuggestions:** Predice los comandos que vas a escribir
 - **zsh-syntax-highlighting:** Resalta los comandos de manera que muestra si esta bien escrito o no
-- **Lsd:** Este te muestra una manera diferente de como se ven los archivos al ejecutar "**ls**"
-
 
 **Descargar zsh-autosuggestions**
 ```bash
@@ -44,8 +42,10 @@ plugins=(git)
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
-**LSD**
+## LSD
 Creditos: Peltoche
+- **Lsd:** Este te muestra una manera diferente de como se ven los archivos al ejecutar "**ls**"
+
 
 ![image](https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png)
 
