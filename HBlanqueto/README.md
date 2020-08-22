@@ -12,7 +12,7 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 - Zsh (Shell)
 - Oh_my_zsh
 
-## Zsh
+## Zsh y Oh_my_Zsh
 Utilizo esta shell para 
 
 ## Temas que utilizo
@@ -23,12 +23,16 @@ Utilizo esta shell para
 - **zsh-syntax-highlighting:** Resalta los comandos de manera que muestra si esta bien escrito o no
 - **Lsd:** Este te muestra una manera diferente de como se ven los archivos al ejecutar "**ls**"
 
-### Instalación
+## Instalación
 
 **Descargar zsh-autosuggestions**
 ```bash
 ~ $ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
+
+
+
+
 
 
 
