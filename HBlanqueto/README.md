@@ -29,7 +29,14 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 $ nano ~/.zshrc
 ```
 
-- Ahí debes escribir el nombre de los temas "**passion** o **archcraft**"
+- Ahí debes escribir el nombre de los temas "**passion** o **archcraft**" en un apartado que dice
+```bash
+# Set name of the theme to load --- if set to "random", it will
+# load a random theme each time oh-my-zsh is loaded, in which case,
+# to know which specific one was loaded, run: echo $RANDOM_THEME
+# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+ZSH_THEME="AQUI VA EL NOMBRE DEL TEMA"
+```
 
 ## Themes
 - Link a los temas: https://github.com/XUnix-Corp/Projects/tree/master/HBlanqueto/Themes
