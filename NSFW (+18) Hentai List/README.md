@@ -201,65 +201,123 @@ D
 # H
 
 119: Hachishaku Hachiwa Keraku Meguri Igyou Kaikitan The Animation
+
 120: Haha Sange (Step MILF)
+
 121: Haitoku Tsuma
+
 122: Haramasete Seiryuu-kun!
+
 123: Harem Time The Animation
+
 124: Harukoi Otome
+
 125: Hasan de Ageru 
+
 126: Hataraku Otona no Renai Jijou
+
 127: Hatsujou Switch
+
 128: Heartful Maman The Animation
+
 129: HHH Triple Ecchi
+
 130: Hime-sama Gentei! (Princess Limited!)
+
 131: Himekishi Angelica The Animation
+
 132: Himekishi Lilia
+
 133: Himekishi Olivia 
+
 134: Hishoka Drop The Animation
+
 135: Hissatsu Chikan Nin
+
 136: Hitoriga The Animation 
+
 137: Hitou Meguri Kakure Yu
+
 138: Hitou Meguri Kakure Yu Mao Hen
+
 139: Hitou Meguri The Animation
+
 140: Hitozuma Cosplay Kissa 2 Hitozuma LoveLove
+
 141: Hitozuma Kasumi-san
+
 142: Hitozuma Koukan Nikki
+
 143: Hitozuma Life One Time Gal
+
 144: Hitozuma Ryoujoku Sankanbi
+
 145: Honoo no Haramase Doukyuusei
+
 146: Honoo no Haramase Motto! Hatsuiku! Karada Sokutei 2
+
 147: Honoo no Haramase Oppai Ero Appli Gakuen The Animation
+
 148: Honoo no Haramase Paidol My Star Gakuen Z The Animation
+
 149: Hontou ni Atta Joshi Asuka
+
 150: Houkago 2 Sayuri
+
 151: Houkago 2 The Animation
+
 152: Houkago Initiation
+
 153: Houkago no Yuutousei
+
 154: Houkago NyanNyan 
+
 155: Hump Bang!
+
 156: Hyoudou Ibuki Kanpeki Ibuki Kaichou ga Kousoku Do M! na Wake
 
 # I
 
 157: Ichigo Chocola Flavor
+
 158: Ichinen Buri no The Animation
+
 159: Ienai Koto
+
 160: Iinari! Saimin Kanojo
+
 161: Iizuka-senpai x Blazer Ane Kyun! yori The Animation
+
 162: Ijou Chitai Jikken Dorei
+
 163: ikenai Koto
+
 164: Ikkyuu Nyuukon
+
 165: Ikoku na Retro
+
 166: Imakara Atashi
+
 167: Imako System
+
 168: Imouto Bitch ni Shiboraretai
+
 169: Imouto de Ikou! 
+
 170: Imouto Paradise! 2
+
 171: Imouto Paradise! 3 The Animation
+
 172: Imouto to Sono Yuujin ga Ero Sugite Ore no Kokan ga Yabai
+
 173: Implicity
+
 174: In no Houteishiki
+
 175: Inda no Himekishi Janne The Animation
+
 176: Inmu Gakuen Inmu ni Torawareta Bijin Shimai
+
 177: Innocent Blue
+
 178: Innocent Shoujo Memoria
