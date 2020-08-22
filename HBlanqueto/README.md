@@ -2,30 +2,24 @@
 <img src="https://github.com/XUnix-Corp/Projects/blob/master/HBlanqueto/Images/WAllpaper%20Zone1.png" align="center" align="center">
 <br>
 
-#PARA CUALQUIER DISTRIBUCIÓN GNU/LINUX
+# PARA CUALQUIER DISTRIBUCIÓN GNU/LINUX
 
 #### Tip: Solo vas a necesitar copiar, pegar estos comandos y agregar unos textos a tu archivo .zshrc
 
 ## ¿Qué encontraré aquí?
 Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, tanto los temas, plugins y otros tips que te daré para que puedas recrear lo que utiizo.
 
-## Materiales
-- Zsh (Shell)
-- Oh_my_zsh
-- git
+## Comenzemos..
 
-## Zsh y Oh_my_Zsh
-Utilizo esta shell para 
+### Temas que utilizo
 
-## Temas que utilizo
-
-## Plugins
+### Plugins
 
 - **zsh-autosuggestions:** Predice los comandos que vas a escribir
 - **zsh-syntax-highlighting:** Resalta los comandos de manera que muestra si esta bien escrito o no
 - **Lsd:** Este te muestra una manera diferente de como se ven los archivos al ejecutar "**ls**"
 
-## Instalación
+### Instalación
 
 **Descargar zsh-autosuggestions**
 ```bash
