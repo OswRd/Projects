@@ -24,6 +24,12 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 - Para instalarlos en tu sistema, lo unico que debes hacer es mandarlos a la siguiente ruta
 **/home/NombreDeTuUsuario/.oh_my_zsh/custom/themes**
 
+- Una vez lo pases a esa carpeta, debes modificar el archivo **.zshrc**, por lo que puedes hacer:
+```bash
+$ nano ~/.zshrc
+```
+
+- Ahí debes escribir el nombre de los temas "**passion** o **archcraft**"
 
 ## Themes
 - Link a los temas: https://github.com/XUnix-Corp/Projects/tree/master/HBlanqueto/Themes
