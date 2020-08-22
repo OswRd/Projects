@@ -9,7 +9,8 @@
 Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, tanto los temas, plugins y otros tips que te daré para que puedas recrear lo que utiizo.
 
 
-# Instalación
+## Oh_my_zsh Themes 
+REF: [Oh-My-Zsh External themes](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes)
 
 ## Plugins
 
