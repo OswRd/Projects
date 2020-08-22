@@ -150,52 +150,91 @@ D
 # E
 
 77: Ecchi na Shintai Sokutei Anime Edition
+
 78: Eisai Kyoiku
+
 79: Elf no Futagohime Willan to Arsura
+
 80: Elf no Oshiego to Sensei
+
 81: Enbi
+
 82: Enbo E H M
+
 83: Energy Kyouka!!
+
 84: Enkou JK Bitch Gal Ojisan to Namapako Seikatsu
+
 85: Enkou Shoujo Rikujoubu Yukki no Baai The Animation
+
 86: Enyoku
+
 87: Ero Manga! H mo Manga mo Step-up
+
 88: Ero Semi Ecchi ni Yaruki ni ABC The Animation
+
 89: Ero-manga Mitai na Koi Shiyou
+
 90: Eroge! H mo Game mo Kaihatsu Zanmai -
+
 91: Eromame
+
 92: Etsuraku no Tane
+
 93: Euphoria
 
 # F
 
 94: Fault!!
+
 95: Fault!! Service Aratanaru Rival
+
 96: Fella Hame Lips
+
 97: Fighting of Ecstasy
+
 98: First Love 
+
 99: Floating Material 
+
 100: Front Innocent
+
 101: Fukubiki! Triangle Futaba wa Atafuta
+
 102: Furifure 2
+
 103: Furifure The Animation
+
 104: Furueru Kuchibiru
+
 105: Furyou ni Hamerarete Jusei Suru Kyonyuu Okaa-san The Animation
+
 106: Fuurinkanzan
 
 # G
 
 107: Gaki ni Modotte Yarinaoshi
+
 108: Gakuen 3 
+
 109: Gakuen de Jikan yo Tomare
+
 110: Gakuen no Ikenie
+
 111: Gakuen Saimin Reido
+
 112: Garden The Animation
+
 113: Genkaku Cool na Sensei ga Aheboteochi! 
+
 114: Gibo no Toki
+
 115: Gogo no Kouchou Junai Mellow Yori
+
 116: Green Eyes Ane Kyun! yori The Animation
+
 117: Grope Yami no Naka no Kotoritachi
+
 118: Gyakuten Majo Saiban Chijo na Majo ni Sabakarechau The Animation
 
 # H
