@@ -8,10 +8,8 @@
 ## ¿Qué encontraré aquí?
 Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, tanto los temas, plugins y otros tips que te daré para que puedas recrear lo que utiizo.
 
-## Comenzemos..
 
-### Temas que utilizo
-
+# Instalación
 
 ### Plugins
 
@@ -19,7 +17,6 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 - **zsh-syntax-highlighting:** Resalta los comandos de manera que muestra si esta bien escrito o no
 - **Lsd:** Este te muestra una manera diferente de como se ven los archivos al ejecutar "**ls**"
 
-### Instalación
 
 **Descargar zsh-autosuggestions**
 ```bash
