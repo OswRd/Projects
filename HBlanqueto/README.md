@@ -11,7 +11,7 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 
 # Instalación
 
-### Plugins
+## Plugins
 
 - **zsh-autosuggestions:** Predice los comandos que vas a escribir
 - **zsh-syntax-highlighting:** Resalta los comandos de manera que muestra si esta bien escrito o no
