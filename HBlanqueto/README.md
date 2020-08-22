@@ -10,7 +10,10 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 
 
 ## Oh_my_zsh Themes 
-REF: [Oh-My-Zsh External themes](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes)
+### Passion
+![passion](https://raw.githubusercontent.com/ChesterYue/ohmyzsh-theme-passion/master/passion.gif)
+
+### Arch Craft 
 
 ## Plugins
 
