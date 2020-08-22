@@ -12,6 +12,7 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 
 ### Temas que utilizo
 
+
 ### Plugins
 
 - **zsh-autosuggestions:** Predice los comandos que vas a escribir
@@ -31,7 +32,20 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 
 **Una vez lo tengas instalado**
 
-Ya tengas ejecutados estos dos comandos, debes dirigirte a la ruta de
+- Ejecuta: **nano ~/.zshrc** y busca el apartado que dice **plugins=(git)**
+- Ahí mismo deves agregar el siguiente texto: zsh-autosuggestions zsh-syntax-highlighting
+
+**Ejemplo de como debe ser**
+Como te lo estoy mostando aqui, debes hacerlo igual en el tuyo para que pueda funcionar
+
+- Antes
+```bash
+plugins(git)
+```
+- Después
+```bash
+plugins(git zsh-autosuggestions zsh-syntax-highlighting)
+```
 
 
 
