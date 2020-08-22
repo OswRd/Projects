@@ -141,18 +141,31 @@
 D
 
 63: D-Spray
+
 64: Dainiji Ura Nyuugakushiken
+
 65: Daisuki na Haha
+
 66: Daraku Reijou The Animation Hakoiri Ojousama Netorare Choukyou Kiroku
+
 67: Dark Blue
+
 68: Dekakute Ecchi na Ore no Ane
+
 69: Demon Busters Ecchi na Ecchi na Demon Taiji The Animation
+
 70: Demonion Gaiden
+
 71: Diabolus Kikoku
+
 72: Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita
+
 73: Dokidoki Little Ooyasan
+
 74: Dokidoki Oyako Lesson
+
 75: Dorei Usagi To Anthony
+
 76: Dropout
 
 # E
