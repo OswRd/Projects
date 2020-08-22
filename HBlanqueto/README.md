@@ -14,6 +14,7 @@ Aqui podrás encontrar la configuración que utilizo en la terminal de Linux, ta
 ![passion](https://raw.githubusercontent.com/ChesterYue/ohmyzsh-theme-passion/master/passion.gif)
 
 ### Arch Craft 
+![gif](https://raw.githubusercontent.com/archcraft-os/archcraft-os.github.io/master/img/main.gif) <br />
 
 ## Plugins
 
