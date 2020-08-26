@@ -152,6 +152,21 @@ makepkg -si
 ``` 
 ```
 yay -S picom-tryone-git networkmanager-dmenu-git deadd-notification-center-bin betterlockscreen-git kunst-git 
+```  
+## Instalar tema firefox  
+*   Verificar que **stylesheets (userChrome)** esta activa:  
+    1. Abrir en la barra de direcciones `about:config` en firefox  
+    2. Buscar `toolkit.legacyUserProfileCustomizations.stylesheets`  
+    3. Confirmar que la opción esta en verdadero (true)  
+
+* Asegurate de tener habilitado el tema por defecto
+  1. Abre la siguiente dirección en firefox `about:addons`
+  2. **Habilitar** el tema por **Defecto** si no esta activo
+
+* Instalación  
+```
+cd dotfiles  
+cp -r chrome ~/.mozilla/firefox/uh4008ra.default-release
 ```
 
 ## Deadd Notification Center (Dependencias) 
